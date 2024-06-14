@@ -1,0 +1,2 @@
+REM Este es el primer script rubber ducky
+REM sera muy simple por eso es el primero
